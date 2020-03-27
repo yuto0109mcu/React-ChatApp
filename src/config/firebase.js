@@ -8,7 +8,7 @@ import "firebase/firestore";
 
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
-   apiKey: "AIzaSyCd6EQICjsNGRBmSk2VJVxlq0GduFVh63I",
+   apiKey: "*****************",
    authDomain: "yyreactchatapp.firebaseapp.com",
    databaseURL: "https://yyreactchatapp.firebaseio.com",
    projectId: "yyreactchatapp",
